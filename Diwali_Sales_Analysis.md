@@ -1,0 +1,4 @@
+# Diwali_Sales_Analysis
+Case Study of Diwali Sales Prediction:-
+
+Diwali, also known as the festival of lights, is one of the most significant festivals celebrated in India, and it is a time when people indulge in shopping and buying gifts for their loved ones. The retail industry experiences a massive surge in sales during this festive season, and it is crucial for businesses to accurately predict the demand for products and plan their inventory and marketing strategies accordingly. In this presentation, I will be sharing my analysis and predictions for Diwali sales based on customer data using machine learning algorithms. I will discuss the data points that I have used, the exploratory data analysis, the machine learning models that I have developed, and the performance metrics and evaluation of these models. Finally, I will present the results of my analysis and discuss their potential impact on the retail industry's business strategy.
